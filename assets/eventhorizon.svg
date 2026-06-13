@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#172554"/><stop offset="1" stop-color="#0891b2"/></linearGradient></defs>
+<rect width="900" height="520" rx="24" fill="url(#g)"/>
+<g fill="none" stroke="#ccfbf1" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+<path d="M155 315h420l80-82h80c38 0 68 30 68 68v14h-648z"/>
+<path d="M225 235h240v80H225z"/><path d="M500 240h65v75h-65z"/>
+<circle cx="250" cy="340" r="42"/><circle cx="690" cy="340" r="42"/>
+<path d="M120 315h40"/><path d="M710 150l34 34 34-34"/><path d="M744 184v78"/>
+</g>
+<g fill="#e0f2fe" font-family="Arial, sans-serif">
+<text x="70" y="92" font-size="40" font-weight="700">FirstLight / EventHorizon</text>
+<text x="70" y="138" font-size="22">Ambulance Telemetry • HL7 FHIR • Embedded Systems</text>
+<text x="70" y="450" font-size="20">Real-time patient monitoring and ambulance-to-hospital data flow</text>
+</g>
+</svg>

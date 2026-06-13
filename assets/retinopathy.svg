@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<defs><radialGradient id="r" cx="50%" cy="50%" r="55%"><stop stop-color="#fb7185"/><stop offset=".55" stop-color="#be123c"/><stop offset="1" stop-color="#4c0519"/></radialGradient></defs>
+<rect width="900" height="520" rx="24" fill="#111827"/>
+<circle cx="450" cy="275" r="165" fill="url(#r)"/>
+<g stroke="#fecdd3" stroke-width="6" fill="none" stroke-linecap="round" opacity=".9">
+<path d="M450 275 C395 210 340 190 295 168"/><path d="M450 275 C510 210 570 180 635 145"/><path d="M450 275 C390 305 350 365 310 420"/><path d="M450 275 C520 320 585 360 648 430"/><path d="M400 235 C370 245 340 250 315 242"/><path d="M505 245 C535 260 570 275 615 265"/><path d="M410 320 C370 340 350 372 335 398"/><path d="M515 320 C550 335 575 365 603 396"/>
+</g>
+<g fill="#f8fafc" font-family="Arial, sans-serif">
+<text x="70" y="82" font-size="38" font-weight="700">Diabetic Retinopathy Detection</text>
+<text x="70" y="128" font-size="22">MATLAB Image Processing • Edge Detection</text>
+</g>
+</svg>

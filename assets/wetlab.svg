@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#064e3b"/><stop offset="1" stop-color="#0f766e"/></linearGradient></defs>
+<rect width="900" height="520" rx="24" fill="url(#g)"/>
+<g fill="none" stroke="#d1fae5" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+<path d="M250 105v155l-80 145c-20 37 6 82 48 82h220c42 0 68-45 48-82l-80-145V105"/>
+<path d="M220 105h215"/><path d="M207 390c62-32 132 28 196 0 28-12 57-10 83 4"/>
+<circle cx="610" cy="180" r="34"/><circle cx="693" cy="255" r="24"/><circle cx="640" cy="350" r="46"/>
+</g>
+<g fill="#ecfdf5" font-family="Arial, sans-serif">
+<text x="70" y="92" font-size="39" font-weight="700">Antibacterial Biomaterials Research</text>
+<text x="70" y="138" font-size="22">CFU Quantification • Live/Dead Assays • SEM Imaging</text>
+</g>
+</svg>
