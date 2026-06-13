@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<rect width="900" height="520" rx="24" fill="#0f172a"/>
+<g fill="none" stroke="#38bdf8" stroke-width="7" stroke-linecap="round"><path d="M100 270h140l36-72 58 160 54-210 55 122h115l45-70 54 70h145"/></g>
+<g fill="#fff" font-family="Arial, sans-serif"><text x="70" y="92" font-size="40" font-weight="700">Clinical & Human-Subject Research</text><text x="70" y="138" font-size="22">IRB • GCP • Participant Data • Documentation</text></g>
+<rect x="590" y="210" width="190" height="150" rx="18" fill="#e0f2fe" opacity=".16"/><path d="M685 235v100M635 285h100" stroke="#ccfbf1" stroke-width="16" stroke-linecap="round"/>
+</svg>

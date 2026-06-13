@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#0e7490"/></linearGradient></defs>
+<rect width="900" height="520" rx="24" fill="url(#g)"/>
+<g stroke="#14b8a6" stroke-width="4" fill="none" opacity=".95">
+<path d="M70 285 L160 285 L180 260 L203 330 L230 145 L260 350 L285 280 L360 280 L385 250 L420 310 L450 285 L530 285 L555 262 L586 332 L612 150 L642 348 L670 285 L840 285"/>
+</g>
+<g fill="#e0f2fe" font-family="Arial, sans-serif">
+<text x="70" y="95" font-size="38" font-weight="700">Wearable Cardiovascular Monitoring</text>
+<text x="70" y="140" font-size="22">ECG • SCG • Carotid IMU • DTW • CWT</text>
+<text x="70" y="430" font-size="20" opacity=".9">Signal-processing pipeline for non-invasive cardiovascular analysis</text>
+</g>
+<circle cx="735" cy="135" r="62" fill="#14b8a6" opacity=".22"/><circle cx="735" cy="135" r="38" fill="#99f6e4" opacity=".35"/>
+</svg>
